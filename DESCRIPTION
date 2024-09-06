@@ -1,0 +1,14 @@
+Package: quickStats
+Type: Package
+Title: Quick Statistics and Visualizations
+Version: 0.1.0
+Author: Heeso Park
+Maintainer: Heeso Park <h.park@campus.lmu.de>
+Description: Provides quick and easy statistical summaries and visualizations for datasets.
+Encoding: UTF-8
+License: MIT + file LICENSE
+LazyData: true
+Imports:
+    ggplot2
+RoxygenNote: 7.3.2
+
